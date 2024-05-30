@@ -1,0 +1,37 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "body": "",
+      "author": "",
+      "image": "",
+      "like": false,
+      "id": 2
+    },
+    {
+      "body": "",
+      "author": "",
+      "image": "",
+      "like": false,
+      "id": 3
+    },
+    {
+      "body": "1wq",
+      "author": "1w2",
+      "image": "q1w",
+      "like": false,
+      "id": 4
+    },
+    {
+      "body": "qw",
+      "author": "qsW",
+      "image": "QW",
+      "like": false,
+      "id": 5
+    }
+  ]
+}
